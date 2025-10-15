@@ -4,4 +4,5 @@ Esta pasta contém dashboards e análises desenvolvidas em **Power BI**, com foc
 
 | Projeto | Descrição | Arquivo |
 |----------|------------|---------|
-| [Perfomance JC Vendas](./curva-abc-clientes) | Análise de faturamento por cliente, produto, acompanhamento mensal. | `exemplo.pbix` |
+| [Performance JC Vendas](./Performance%20JC%20Vendas.pbix) | Análise de faturamento por cliente, produto e acompanhamento mensal. | `Performance JC Vendas.pbix` |
+
